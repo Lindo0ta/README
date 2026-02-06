@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB6FA5&width=435&lines=Professional+in+Systems+Engineering+Training)](https://git.io/typing-svg)
 </div>
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://tenor.com/es/view/crt-anime-gif-14894953" />
+ <img  height="280rem" alt="GIF" src="https://tenor.com/es/view/anime-computer-girl-typing-gif-7944313" />
  </p>
 
 ## <img src="https://tenor.com/es/view/crt-anime-gif-14894953" width="25">  <b>About Me</b>
