@@ -7,10 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB6FA5&width=435&lines=Professional+in+Systems+Engineering+Training)](https://git.io/typing-svg)
 </div>
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://tenor.com/es/view/anime-computer-girl-typing-gif-7944313" />
  </p>
 
-## <img src="https://tenor.com/es/view/crt-anime-gif-14894953" width="25">  <b>About Me</b>
+ <img src="https://tenor.com/es/view/crt-anime-gif-14894953" width="25">  <b>About Me</b>
 I am Linda, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 
 <br>
