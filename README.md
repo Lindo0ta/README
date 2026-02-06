@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Al-Amin <img src=
+<h1 align="center">Hi!,  I'm Linda <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center" style="border: px solid #000000;>
+<div align="center" style="border: px solid ##f5daf2;>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Professional+in+Systems+Engineering+training)](https://git.io/typing-svg)
 </div>
