@@ -372,10 +372,3 @@ I am Linda, a student and tech enthusiast with a passion for software developmen
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
-
-
------
-Credits: [Al-Amin](https://github.com/alamin-babu)
-
-Last Edited on: 04/07/2024
